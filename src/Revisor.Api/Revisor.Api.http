@@ -1,0 +1,11 @@
+@Revisor.Api_HostAddress = http://localhost:5219
+
+GET {{Revisor.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Revisor.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
