@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Revisor.Domain.Interfaces
 {
-    internal class ILlmClient
+    public interface ILlmClient
     {
+        Task<LlmResponse> CompleteAsync(string systemPrompt, string userContent, CancellationToken ct);
     }
+    public record LlmResponse(string Content, int Tokens);
 }
