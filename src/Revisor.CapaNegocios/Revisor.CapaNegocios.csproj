@@ -13,5 +13,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Revisor.CapaDatos\Revisor.CapaDatos.csproj" />
   </ItemGroup>
+	
+  <ItemGroup>
+    <None Update="Prompts\*.md" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
 
 </Project>
