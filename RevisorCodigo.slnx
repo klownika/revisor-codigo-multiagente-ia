@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/Revisor.Api/Revisor.ServicioWeb.csproj" />
-    <Project Path="src/Revisor.Application/Revisor.Application.csproj" />
-    <Project Path="src/Revisor.Domain/Revisor.Domain.csproj" />
-    <Project Path="src/Revisor.Infrastructure/Revisor.Infrastructure.csproj" />
+    <Project Path="src/Revisor.CapaDatos/Revisor.CapaDatos.csproj" Id="2f4e4fc9-1a67-4412-ad60-c4a657ec66fc" />
+    <Project Path="src/Revisor.CapaNegocios/Revisor.CapaNegocios.csproj" Id="6733336a-c0f4-48c3-8a81-be047acadf80" />
+    <Project Path="src/Revisor.Pruebas/Revisor.Pruebas.csproj" Id="2276b8ea-4c08-4f9c-8106-549a4bc990ba" />
+    <Project Path="src/Revisor.ServicioWeb/Revisor.ServicioWeb.csproj" Id="6bd87e59-3810-4560-8dda-ca661776b76e" />
   </Folder>
 </Solution>
