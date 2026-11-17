@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/Revisor.Api/Revisor.Api.csproj" />
+    <Project Path="src/Revisor.Api/Revisor.ServicioWeb.csproj" />
     <Project Path="src/Revisor.Application/Revisor.Application.csproj" />
     <Project Path="src/Revisor.Domain/Revisor.Domain.csproj" />
     <Project Path="src/Revisor.Infrastructure/Revisor.Infrastructure.csproj" />

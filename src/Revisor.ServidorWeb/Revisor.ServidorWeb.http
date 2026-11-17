@@ -1,0 +1,6 @@
+@Revisor.ServidorWeb_HostAddress = http://localhost:5196
+
+GET {{Revisor.ServidorWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
